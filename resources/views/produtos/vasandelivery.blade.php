@@ -30,7 +30,7 @@
         <div class="container">
             <div class="section-intro text-justify">
                 <div class="about__img">
-                    <img class="img-fluid" src="{{asset ('img/home/cel.pn')}}" alt="">
+                    <img class="img-fluid" src="{{asset ('img/home/cel.png')}}" alt="">
                 </div>
                 <p class="section-intro__subtitle">
                     Mauris diam ante, tristique eget nulla non, volutpat iaculis nibh. Praesent quis urna eget arcu ultrices placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce non felis maximus, semper dolor ornare, suscipit urna. Sed eget pharetra augue, auctor gravida urna. Sed sollicitudin consectetur nibh, id mattis nunc efficitur quis. Integer ut quam sed sapien iaculis condimentum. Sed ex nisi, efficitur et ultrices in, sagittis in turpi

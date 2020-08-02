@@ -49,12 +49,12 @@
                     <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
                         nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
                         phasellus placerat proin aptent pulvinar fusce nostra port</p>
-                    <a class="button button-light" href="#">Saiba Mais</a>
+                    <a class="button button-light" href="{{asset ('produtos/vasandelivery')}}">Saiba Mais</a>
                 </div>
             </div>
             <div class="col-lg-5">
                 <div class="about__img">
-                    <img class="img-fluid" src="img/home/cel.png" alt="">
+                    <img class="img-fluid" src="{{asset ('img/home/cel.png')}}" alt="">
                 </div>
             </div>
         </div>
@@ -70,7 +70,7 @@
         <div class="row align-items-center pt-xl-3 pb-xl-5">
             <div class="col-lg-6">
                 <div class="solution__img text-center text-lg-left mb-4 mb-lg-0">
-                    <img class="img-fluid" src="img/home/adv.png" alt="">
+                    <img class="img-fluid" src="{{asset ('img/home/adv.png')}}" alt="">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -79,7 +79,7 @@
                     <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
                         nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
                         phasellus placerat proin aptent pulvinar fusce nostra port</p>
-                    <a class="button button-light" href="#">Saiba Mais</a>
+                    <a class="button button-light" href="{{asset ('produtos/vasanadvogados')}}">Saiba Mais</a>
                 </div>
             </div>
         </div>
@@ -97,12 +97,12 @@
                     <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
                         nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
                         phasellus placerat proin aptent pulvinar fusce nostra port</p>
-                    <a class="button button-light" href="#">Saiba Mais</a>
+                    <a class="button button-light" href="{{asset ('produtos/vasanglpi')}}">Saiba Mais</a>
                 </div>
             </div>
             <div class="col-lg-5">
                 <div class="about__img">
-                    <img class="img-fluid" src="img/home/glpi.png" alt="">
+                    <img class="img-fluid" src="{{asset ('img/home/glpi.png')}}" alt="">
                 </div>
             </div>
         </div>
@@ -118,7 +118,7 @@
         <div class="row align-items-center pt-xl-3 pb-xl-5">
             <div class="col-lg-6">
                 <div class="solution__img text-center text-lg-left mb-4 mb-lg-0">
-                    <img class="img-fluid" src="img/home/loja.jpg" alt="">
+                    <img class="img-fluid" src="{{asset ('img/home/loja.jpg')}}" alt="">
                 </div>
             </div>
             <div class="col-lg-6">
@@ -127,7 +127,7 @@
                     <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
                         nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
                         phasellus placerat proin aptent pulvinar fusce nostra port</p>
-                    <a class="button button-light" href="#">Saiba Mais</a>
+                    <a class="button button-light" href="{{asset ('produtos/vasanlojavirtual')}}">Saiba Mais</a>
                 </div>
             </div>
         </div>

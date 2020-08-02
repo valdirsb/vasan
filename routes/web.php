@@ -17,7 +17,16 @@ Route::get('/', 'HomeController@index');
 
 Route::get('/quemsomos', 'HomeController@quemSomos');
 Route::get('/servicos', 'HomeController@servicos');
-Route::get('/produtos', 'HomeController@produtos');
+
+//LISTAR OS PRODUTOS
+Route::prefix('/produtos')->group(function(){
+    Route::get('/','ProdutosController@index');
+    Route::get('/vasandelivery','ProdutosController@vasandelivery');
+    Route::get('/vasanadvogados','ProdutosController@vasanadvogados');
+    Route::get('/vasanglpi','ProdutosController@vasanglpi');
+    Route::get('/vasanlojavirtual','ProdutosController@vasanlojavirtual');
+});
+
 Route::get('/faleconosco', 'HomeController@faleconosco');
 
 

@@ -21,11 +21,6 @@ class HomeController extends Controller
         return view('servicos');
     }
 
-    public function produtos()
-    {
-        return view('produtos');
-    }
-
     public function faleconosco()
     {
         return view('faleconosco');

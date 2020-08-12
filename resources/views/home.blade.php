@@ -53,7 +53,7 @@
                                 </span>
                                 <h4>Criação de Sites</h4>
                                 <p>
-                                    Crie seus site totalmente personalizados e com sua cara. Consulte um de nossos
+                                    Crie seus sites totalmente personalizados e com sua cara. Consulte um de nossos
                                     Atendentes, fale um pouco de sua ideia e pronto o resto deixe com a Vasan.
                                 </p>
                             </div>

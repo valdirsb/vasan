@@ -33,11 +33,15 @@
                     <img class="img-fluid" src="{{asset ('img/home/loja.jpg')}}" alt="">
                 </div>
                 <p class="section-intro__subtitle">
-                    Mauris diam ante, tristique eget nulla non, volutpat iaculis nibh. Praesent quis urna eget arcu ultrices placerat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce non felis maximus, semper dolor ornare, suscipit urna. Sed eget pharetra augue, auctor gravida urna. Sed sollicitudin consectetur nibh, id mattis nunc efficitur quis. Integer ut quam sed sapien iaculis condimentum. Sed ex nisi, efficitur et ultrices in, sagittis in turpi
+                  Na plataforma de loja virtual da vasan você controla todo seu estoque, todas as suas vendas, organiza suas
+                  entregas, lança promoçõs gerando cupons de desconto e muito mais.
                 </p>
                 <br>
                 <p class="section-intro__subtitle">
-                    Sed nec magna elit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas aliquet eros in imperdiet dignissim. Pellentesque semper rhoncus fringilla. Donec laoreet velit et imperdiet mollis. Duis euismod interdum augue, vitae placerat tellus molestie quis. Donec nibh nulla, venenatis quis dui a, bibendum gravida neque. Duis sed tempor odio, a pulvinar lorem. Praesent pulvinar sodales mauris cursus euismod. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam dictum pharetra molestie. Sed et quam sed magna scelerisque dignissim non vel dolor. Suspendisse elit dui, tincidunt eu egestas nec, tincidunt nec ante. Morbi vulputate commodo urna, id vestibulum ante lacinia quis. Pellentesque scelerisque sagittis feugiat. Maecenas semper, turpis eu tempor porta, lorem enim efficitur mauris, a tincidunt tortor nisi at dui.
+                  A vasan loja virtual foi criada pensando em você varejista e atacadisda, é uma ferramenta completa onde você
+                  vai poder controlar seu estoque, organizar suas entregas e finanças , armazenar dados pessoais de seus clientes, você poder lançar
+                  promoções, gerar cupons de desconto, e muito mais. além de integrar o site de sua loja as suas redes sociais podendo
+                  assim fazer uma unica postagens e todos os seus seguidores ficarem sabendo das novidades de sua loja.
                 </p>
             </div>
         </div>
@@ -47,76 +51,82 @@
 
 <!--================ Pricing section start =================-->      
 <section >
-    <div class="container">
-      <div class="section-intro text-center">
-        <h2 class="section-intro__title">Choose Your Plan</h2>
-        <p class="section-intro__subtitle">Vel aliquam quis, nulla pede mi commodo tristique nam hac. Luctus torquent velit felis commodo pellentesque nulla cras. Tincidunt hacvel alivquam quis nulla pede mi commodo tristique nam hac  luctus torquent</p>
+  <div class="container">
+    <div class="section-intro text-center">
+      <h2 class="section-intro__title">Conheça nosso planos</h2>
+      <p class="section-intro__subtitle">
+        A vasan disponibiliza de três modalidades de planos, conheça nossos planos e veja qual deles
+        encaixa melhor na sua empresa.
+      </p>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+        <div class="card text-center card-pricing">
+          <div class="card-pricing__header">
+            <h4>Plano Normal</h4>
+            <h1 class="card-pricing__price"><span>R$</span>49,90</h1>
+          </div>
+          <ul class="card-pricing__list">
+            <li><i class="ti-check"></i>01 email personalizado</li>
+            <li><i class="ti-check"></i>Dominio .br incluso</li>
+            <li><i class="ti-check"></i>Hospedagem inclusa</li>
+            <li><i class="ti-check"></i>Suporte 24h</li>
+            <li><i class="ti-check"></i>01 usuário cadastrado</li>
+            <li><i class="ti-check"></i>Sem taxas adicionais</li>
+            <li><i class="ti-check"></i>Até 50 produtos ativos</li>
+          </ul>
+          <div class="card-pricing__footer">
+            <button class="button button-light">Contrate Agora</button>
+          </div>
+        </div>
       </div>
 
-      <div class="row">
-        <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-          <div class="card text-center card-pricing">
-            <div class="card-pricing__header">
-              <h4>Normal</h4>
-              <p>Attend only first day</p>
-              <h1 class="card-pricing__price"><span>$</span>45.00</h1>
-            </div>
-            <ul class="card-pricing__list">
-              <li><i class="ti-check"></i>Unlimited Entrance</li>
-              <li><i class="ti-check"></i>Comfortable Seat</li>
-              <li><i class="ti-check"></i>Paid Certificate</li>
-              <li class="unvalid"><i class="ti-close"></i>Day One Workshop</li>
-              <li class="unvalid"><i class="ti-close"></i>One Certificate</li>
-            </ul>
-            <div class="card-pricing__footer">
-              <button class="button button-light">Buy Now</button>
-            </div>
+      <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+        <div class="card text-center card-pricing">
+          <div class="card-pricing__header">
+            <h4>Plano Advanced</h4>
+            <h1 class="card-pricing__price"><span>R$</span>69,90</h1>
+          </div>
+          <ul class="card-pricing__list">
+            <li><i class="ti-check"></i>01 email personalizado</li>
+            <li><i class="ti-check"></i>Dominio .br incluso</li>
+            <li><i class="ti-check"></i>Hospedagem inclusa</li>
+            <li><i class="ti-check"></i>Suporte 24h</li>
+            <li><i class="ti-check"></i>02 usuários cadastrados</li>
+            <li><i class="ti-check"></i>Sem taxas adicionais</li>
+            <li><i class="ti-check"></i>Até 100 produtos ativos</li>
+          </ul>
+          <div class="card-pricing__footer">
+            <button class="button button-light">Contrate Agora</button>
           </div>
         </div>
+      </div>
 
-        <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-          <div class="card text-center card-pricing">
-            <div class="card-pricing__header">
-              <h4>Advanced</h4>
-              <p>Attend only first day</p>
-              <h1 class="card-pricing__price"><span>$</span>55.00</h1>
-            </div>
-            <ul class="card-pricing__list">
-              <li><i class="ti-check"></i>Unlimited Entrance</li>
-              <li><i class="ti-check"></i>Comfortable Seat</li>
-              <li><i class="ti-check"></i>Paid Certificate</li>
-              <li class="unvalid"><i class="ti-close"></i>Day One Workshop</li>
-              <li class="unvalid"><i class="ti-close"></i>One Certificate</li>
-            </ul>
-            <div class="card-pricing__footer">
-              <button class="button button-light">Buy Now</button>
-            </div>
+      <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
+        <div class="card text-center card-pricing">
+          <div class="card-pricing__header">
+            <h4>Plano Ultimate</h4>
+            <h1 class="card-pricing__price"><span>R$</span>99,90</h1>
           </div>
-        </div>
-
-        <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
-          <div class="card text-center card-pricing">
-            <div class="card-pricing__header">
-              <h4>Ultimate</h4>
-              <p>Attend only first day</p>
-              <h1 class="card-pricing__price"><span>$</span>65.00</h1>
-            </div>
-            <ul class="card-pricing__list">
-              <li><i class="ti-check"></i>Unlimited Entrance</li>
-              <li><i class="ti-check"></i>Comfortable Seat</li>
-              <li><i class="ti-check"></i>Paid Certificate</li>
-              <li class="unvalid"><i class="ti-close"></i>Day One Workshop</li>
-              <li class="unvalid"><i class="ti-close"></i>One Certificate</li>
-            </ul>
-            <div class="card-pricing__footer">
-              <button class="button button-light">Buy Now</button>
-            </div>
+          <ul class="card-pricing__list">
+            <li><i class="ti-check"></i>03 e-mails personalizados</li>
+            <li><i class="ti-check"></i>Dominio .br incluso</li>
+            <li><i class="ti-check"></i>Hospedagem inclusa</li>
+            <li><i class="ti-check"></i>Suporte 24h</li>
+            <li><i class="ti-check"></i>03 usuários cadastrados</li>
+            <li><i class="ti-check"></i>Sem taxas adicionais</li>
+            <li><i class="ti-check"></i>Produtos ilimitados</li>
+          </ul>
+          <div class="card-pricing__footer">
+            <button class="button button-light">Contrate Agora</button>
           </div>
         </div>
       </div>
     </div>
-  </section>
-  <!--================ Pricing section end =================-->
+  </div>
+</section>
+<!--================ Pricing section end =================-->
 
 
 

@@ -44,9 +44,11 @@
                 <div class="col-lg-7 mb-5 mb-md-0">
                     <div class="about__content">
                         <h2>Missão</h2>
-                        <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
-                            nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
-                            phasellus placerat proin aptent pulvinar fusce nostra port
+                        <p>
+                            A vasan tem por missão atender a demanda do mercado facilitando o dia a dia do 
+                            micro e do pequeno empreendededor, baranteando os custos de sistemas web.
+                            visando a acessibilidade de todos nas melhores plataformas digitais ajudando a impulsionar 
+                            as suas vendas, e por sua vez gerenciar da melhor forma possivél as suas finanças.
                         </p>
                     </div>
                 </div>
@@ -72,9 +74,9 @@
                 <div class="col-lg-6">
                     <div class="solution__content">
                         <h2>Visão</h2>
-                        <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
-                            nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
-                            phasellus placerat proin aptent pulvinar fusce nostra port
+                        <p>
+                            Ser uma referência em parceria na acessibilidade e inclusão dos pequenos no mundo
+                            dos grandes.
                         </p>
                     </div>
                 </div>

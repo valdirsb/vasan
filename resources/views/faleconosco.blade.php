@@ -26,6 +26,11 @@
   <!-- ================ contact section start ================= -->
   <section class="section-margin">
     <div class="container">
+      @if (session('alert'))
+          <div class="alert alert-success">
+              {{ session('alert') }}
+          </div>
+      @endif
 
 
       <div class="row">
@@ -52,7 +57,8 @@
           </div>
         </div>
         <div class="col-md-8 col-lg-9">
-          <form action="#/" class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+          <form action="{{asset ('faleconosco')}}" class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+            @csrf
             <div class="row">
               <div class="col-lg-5">
                 <div class="form-group">
@@ -67,7 +73,7 @@
               </div>
               <div class="col-lg-7">
                 <div class="form-group">
-                    <textarea class="form-control different-control w-100" name="message" id="message" cols="30" rows="5" placeholder="Mensagem"></textarea>
+                    <textarea class="form-control different-control w-100" name="msg" id="msg" cols="30" rows="5" placeholder="Mensagem"></textarea>
                 </div>
               </div>
             </div>

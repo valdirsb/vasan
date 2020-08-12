@@ -27,8 +27,10 @@ Route::prefix('/produtos')->group(function(){
     Route::get('/vasanlojavirtual','ProdutosController@vasanlojavirtual');
 });
 
-Route::get('/faleconosco', 'HomeController@faleconosco');
-
+Route::prefix('/faleconosco')->group(function(){
+    Route::get('/','FaleConoscoController@index');
+    Route::post('/','FaleConoscoController@enviar');
+});
 
 
 Auth::routes();

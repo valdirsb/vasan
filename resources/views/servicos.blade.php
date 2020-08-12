@@ -23,14 +23,16 @@
   <!--================ Hero sm Banner end =================-->
 
   
-  <!--================ Offer section start =================-->
-  <section class="section-margin">
+<!--================ Offer section start =================-->
+<section class="section-margin">
     <div class="container">
         <div class="section-intro pb-85px text-center">
             <h2 class="section-intro__title">Nossos Serviços</h2>
-            <p class="section-intro__subtitle">Vel aliquam quis, nulla pede mi commodo tristique nam hac. Luctus
-                torquent velit felis commodo pellentesque nulla cras. Tincidunt hacvel alivquam quis nulla pede mi
-                commodo tristique nam hac luctus torquent</p>
+            <p class="section-intro__subtitle">
+                Sistemas web modernos e de total confiabilidade, na vasan você terá uma plataforma
+                segura e de total praticidade, sistemas extremamentes fáceis de se gerenciar. 
+                impulsionando suas vendas e otimizando o gerenciamento do seu negócio.
+            </p>
         </div>
 
         <div class="row">
@@ -43,7 +45,10 @@
                                 <i class="ti-pencil-alt"></i>
                             </span>
                             <h4>Criação de Sites</h4>
-                            <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
+                            <p>
+                                Crie seus site totalmente personalizados e com sua cara. consulte um de nossos
+                                atendentes, fale um pouco de sua ideia e pronto o resto deixe com a vasan.
+                            </p>
                         </div>
                     </div>
 
@@ -53,7 +58,11 @@
                                 <i class="ti-mobile"></i>
                             </span>
                             <h4>Aplicativos</h4>
-                            <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
+                            <p>
+                                Além dos aplicativos de nossa plataforma você também pode criar um aplicativo
+                                exclusivo para o que você precisa, basta você nos contar sua ideia que fazemos
+                                vira realidade. consulte um de nossos atendentes e o resto deixe com a vasan.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -65,7 +74,10 @@
                                 <i class="ti-desktop"></i>
                             </span>
                             <h4>Sistemas</h4>
-                            <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
+                            <p>
+                                Dispinibilizamos de sistemas totalmente úteis para o seu dia a dia que iram te ajudar
+                                a gerenciar melhor seu negócio facilitando e otimizando sua produtividade.
+                            </p>
                         </div>
                     </div>
 
@@ -75,7 +87,11 @@
                                 <i class="ti-palette"></i>
                             </span>
                             <h4>Identidade Visual</h4>
-                            <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
+                            <p>
+                                você que esta começando um negócio, e está precisando de uma ajudinha para criar
+                                sua marca, deixa eu te contar um segredo a vasan tem uma equipe de designs profissionais
+                                e experientes que vão te dar todo suporte.
+                            </p>
                         </div>
                     </div>
                 </div>

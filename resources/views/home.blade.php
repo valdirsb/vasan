@@ -35,9 +35,11 @@
         <div class="container">
             <div class="section-intro pb-85px text-center">
                 <h2 class="section-intro__title">Nossos Serviços</h2>
-                <p class="section-intro__subtitle">Vel aliquam quis, nulla pede mi commodo tristique nam hac. Luctus
-                    torquent velit felis commodo pellentesque nulla cras. Tincidunt hacvel alivquam quis nulla pede mi
-                    commodo tristique nam hac luctus torquent</p>
+                <p class="section-intro__subtitle">
+                    Sistemas web modernos e de total confiabilidade, na vasan você terá uma plataforma
+                    segura e de total praticidade, sistemas extremamentes fáceis de se gerenciar. 
+                    impulsionando suas vendas e otimizando o gerenciamento do seu negócio.
+                </p>
             </div>
 
             <div class="row">
@@ -50,7 +52,10 @@
                                     <i class="ti-pencil-alt"></i>
                                 </span>
                                 <h4>Criação de Sites</h4>
-                                <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
+                                <p>
+                                    Crie seus site totalmente personalizados e com sua cara. consulte um de nossos
+                                    atendentes, fale um pouco de sua ideia e pronto o resto deixe com a vasan.
+                                </p>
                             </div>
                         </div>
 
@@ -60,7 +65,11 @@
                                     <i class="ti-mobile"></i>
                                 </span>
                                 <h4>Aplicativos</h4>
-                                <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
+                                <p>
+                                    Além dos aplicativos de nossa plataforma você também pode criar um aplicativo
+                                    exclusivo para o que você precisa, basta você nos contar sua ideia que fazemos
+                                    vira realidade. consulte um de nossos atendentes e o resto deixe com a vasan.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -72,7 +81,10 @@
                                     <i class="ti-desktop"></i>
                                 </span>
                                 <h4>Sistemas</h4>
-                                <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
+                                <p>
+                                    Dispinibilizamos de sistemas totalmente úteis para o seu dia a dia que iram te ajudar
+                                    a gerenciar melhor seu negócio facilitando e otimizando sua produtividade.
+                                </p>
                             </div>
                         </div>
 
@@ -82,7 +94,11 @@
                                     <i class="ti-palette"></i>
                                 </span>
                                 <h4>Identidade Visual</h4>
-                                <p>Posuere porttitor justo ornare dictum ultricies enim imperdiet integer habitant.</p>
+                                <p>
+                                    você que esta começando um negócio, e está precisando de uma ajudinha para criar
+                                    sua marca, deixa eu te contar um segredo a vasan tem uma equipe de designs profissionais
+                                    e experientes que vão te dar todo suporte.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -105,80 +121,33 @@
             <div class="container">
                 <div class="section-intro pb-85px text-center">
                     <h2 class="section-intro__title">Produtos</h2>
-                    <p class="section-intro__subtitle">Vel aliquam quis, nulla pede mi commodo tristique nam hac. Luctus
-                        torquent velit felis commodo pellentesque nulla cras. Tincidunt hacvel alivquam quis nulla pede mi
-                        commodo tristique nam hac luctus torquent</p>
+                    <p class="section-intro__subtitle">
+                        Os produtos da vasan são de total confiabilidade, e eles irão agregar muita agilidade 
+                        e praticidade no dia a dia do seu negógio.
+                    </p>
                 </div>
             </div>
             <div class="row no-gutters align-items-center">
                 <div class="col-lg-6 mb-5 mb-md-0">
                     <div class="about__content">
                         <h2>VasanDelivery</h2>
-                        <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
-                            nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
-                            phasellus placerat proin aptent pulvinar fusce nostra port</p>
+                        <p>
+                            O sistema de delivery da vasan é totalmene ágil e eficaz, com ele você vai gerenciar todos seus pedidos
+                            em tempo real, e vai poder deixar o seu cliente informado sobre toda movimentação do pedido dele, além
+                            de ter todo controle financeiro dos seus pedidos recebidos diariamente.
+                        </p>
                         <a class="button button-light" href="{{asset ('produtos/vasandelivery')}}">Saiba Mais</a>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="about__img">
-                        <img class="img-fluid" src="{{asset ('img/home/cel.png')}}" alt="">
+                        <img class="img-fluid" src="{{asset ('img/home/delivery-Home.jpg')}}" alt="">
                     </div>
                 </div>
             </div>
         </div>
     </section>
     <!--================ about section end =================-->
-
-
-
-    <!--================ Solution section start =================-->
-    <section class="section-padding--small">
-        <div class="container">
-            <div class="row align-items-center pt-xl-3 pb-xl-5">
-                <div class="col-lg-6">
-                    <div class="solution__img text-center text-lg-left mb-4 mb-lg-0">
-                        <img class="img-fluid" src="{{asset ('img/home/adv.png')}}" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="solution__content">
-                        <h2>VasanAdvogados</h2>
-                        <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
-                            nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
-                            phasellus placerat proin aptent pulvinar fusce nostra port</p>
-                        <a class="button button-light" href="{{asset ('produtos/vasanadvogados')}}">Saiba Mais</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--================ Solution section end =================-->
-
-    <!--================ about section start =================-->
-    <section class="section-padding--small bg-magnolia">
-        <div class="container">
-            <div class="row no-gutters align-items-center">
-                <div class="col-lg-7 mb-5 mb-md-0">
-                    <div class="about__content">
-                        <h2>VasanGLPI</h2>
-                        <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
-                            nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
-                            phasellus placerat proin aptent pulvinar fusce nostra port</p>
-                        <a class="button button-light" href="{{asset ('produtos/vasanglpi')}}">Saiba Mais</a>
-                    </div>
-                </div>
-                <div class="col-lg-5">
-                    <div class="about__img">
-                        <img class="img-fluid" src="{{asset ('img/home/glpi.png')}}" alt="">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--================ about section end =================-->
-
-
 
     <!--================ Solution section start =================-->
     <section class="section-padding--small">
@@ -192,9 +161,10 @@
                 <div class="col-lg-6">
                     <div class="solution__content">
                         <h2>VasanLojaVirtual</h2>
-                        <p>Molestie lorem est faucibus Faucibus erat phasellus placerat proinint aptent pulvinar fusce
-                            nostra porta sem platea nec, donec fusce erat Molestie lorem est faucibus faucibus erat
-                            phasellus placerat proin aptent pulvinar fusce nostra port</p>
+                        <p>
+                            Na plataforma de loja virtual da vasan você controla todo seu estoque, todas as suas vendas, organiza suas
+                            entregas, lança promoçõs gerando cupons de desconto e muito mais.
+                        </p>
                         <a class="button button-light" href="{{asset ('produtos/vasanlojavirtual')}}">Saiba Mais</a>
                     </div>
                 </div>
@@ -202,6 +172,35 @@
         </div>
     </section>
     <!--================ Solution section end =================-->
+
+
+    <!--================ about section start =================-->
+    <section class="section-padding--small bg-magnolia">
+        <div class="container">
+            <div class="row no-gutters align-items-center">
+                <div class="col-lg-7 mb-5 mb-md-0">
+                    <div class="about__content">
+                        <h2>VasanAdvogados</h2>
+                        <p>
+                            A plataforma vasan para advogados é uma plataforma que veio para dar total comodidade a você advogado, e
+                            aos seus clientes disponibilizando com um simples click tudo que seu cliente precisar saber sobre o seu processo.
+                        </p>
+                        <a class="button button-light" href="{{asset ('produtos/vasanadvogados')}}">Saiba Mais</a>
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="about__img">
+                        <img class="img-fluid" src="{{asset ('img/home/adv.png')}}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================ about section end =================-->
+
+
+
+    
 
     <!--================ Start Clients Logo Area =================-->
     <section class="clients_logo_area section-padding  bg-magnolia">
@@ -214,7 +213,7 @@
             <div class="clients_slider owl-carousel">
 
                 <div class="item">
-                    <img src="img/clients-logo/terraNutri.png" alt="">
+                    <img src="img/clients-logo/helgrifs.jpg" alt="">
                 </div>
                 <div class="item">
                     <img src="img/clients-logo/doca.png" alt="">

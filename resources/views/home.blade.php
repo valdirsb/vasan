@@ -19,10 +19,10 @@
                 <div class="col-lg-5 pt-5">
                     <div class="hero-banner__content">
                         <h1>Soluções inovadoras para sua Empresa</h1>
-                        <p>Desenvolvemos soluções digitais. Simplificamos a tecnologia para que você possa se dedicar às
-                            demais áreas do seu negócio. Conheça nossos serviços e descubra como podemos lhe ajudar, da
-                            ideia ao software</p>
-                        <a class="button bg" href="{{asset ('quemsomos')}}">Clique aqui e Saiba mais</a>
+                        <p>Desenvolvemos soluções digitais. Simplificamos a tecnologia para que você possa se dedicar as
+                            demais áreas do seu negócio. Conheça nossos serviços e descubra como podemos lhe ajudar, dar
+                            ideia ao software.</p>
+                        <a class="button bg" href="{{asset ('quemsomos')}}">Clique aqui e saiba mais</a>
                     </div>
                 </div>
             </div>
@@ -36,9 +36,9 @@
             <div class="section-intro pb-85px text-center">
                 <h2 class="section-intro__title">Nossos Serviços</h2>
                 <p class="section-intro__subtitle">
-                    Sistemas web modernos e de total confiabilidade, na vasan você terá uma plataforma
+                    Sistemas web modernos e de total confiabilidade, na Vasan você terá uma plataforma
                     segura e de total praticidade, sistemas extremamentes fáceis de se gerenciar. 
-                    impulsionando suas vendas e otimizando o gerenciamento do seu negócio.
+                    Impulsionando suas vendas e otimizando o gerenciamento do seu negócio.
                 </p>
             </div>
 
@@ -53,8 +53,8 @@
                                 </span>
                                 <h4>Criação de Sites</h4>
                                 <p>
-                                    Crie seus site totalmente personalizados e com sua cara. consulte um de nossos
-                                    atendentes, fale um pouco de sua ideia e pronto o resto deixe com a vasan.
+                                    Crie seus site totalmente personalizados e com sua cara. Consulte um de nossos
+                                    Atendentes, fale um pouco de sua ideia e pronto o resto deixe com a Vasan.
                                 </p>
                             </div>
                         </div>
@@ -66,9 +66,9 @@
                                 </span>
                                 <h4>Aplicativos</h4>
                                 <p>
-                                    Além dos aplicativos de nossa plataforma você também pode criar um aplicativo
+                                    Além dos aplicativos da nossa plataforma você também pode criar um aplicativo
                                     exclusivo para o que você precisa, basta você nos contar sua ideia que fazemos
-                                    vira realidade. consulte um de nossos atendentes e o resto deixe com a vasan.
+                                    virar realidade. Consulte um de nossos Atendentes e o resto deixe com a Vasan.
                                 </p>
                             </div>
                         </div>
@@ -82,8 +82,8 @@
                                 </span>
                                 <h4>Sistemas</h4>
                                 <p>
-                                    Dispinibilizamos de sistemas totalmente úteis para o seu dia a dia que iram te ajudar
-                                    a gerenciar melhor seu negócio facilitando e otimizando sua produtividade.
+                                    Disponibilizamos de sistemas totalmente úteis para o seu dia a dia que irão te ajudar
+                                    a gerenciar melhor o seu negócio facilitando e otimizando sua produtividade.
                                 </p>
                             </div>
                         </div>
@@ -95,8 +95,8 @@
                                 </span>
                                 <h4>Identidade Visual</h4>
                                 <p>
-                                    você que esta começando um negócio, e está precisando de uma ajudinha para criar
-                                    sua marca, deixa eu te contar um segredo a vasan tem uma equipe de designs profissionais
+                                    Você que está começando um negócio, e está precisando de uma ajudinha para criar
+                                    sua marca, deixa eu te contar um segredo! A Vasan tem uma equipe de Designers Profissionais
                                     e experientes que vão te dar todo suporte.
                                 </p>
                             </div>
@@ -122,7 +122,7 @@
                 <div class="section-intro pb-85px text-center">
                     <h2 class="section-intro__title">Produtos</h2>
                     <p class="section-intro__subtitle">
-                        Os produtos da vasan são de total confiabilidade, e eles irão agregar muita agilidade 
+                        Os produtos da Vasan são de total confiabilidade, e eles irão agregar muita agilidade 
                         e praticidade no dia a dia do seu negógio.
                     </p>
                 </div>
@@ -132,8 +132,8 @@
                     <div class="about__content">
                         <h2>VasanDelivery</h2>
                         <p>
-                            O sistema de delivery da vasan é totalmene ágil e eficaz, com ele você vai gerenciar todos seus pedidos
-                            em tempo real, e vai poder deixar o seu cliente informado sobre toda movimentação do pedido dele, além
+                            O sistema de delivery da Vasan é totalmene ágil e eficaz, com ele você vai gerenciar todos seus pedidos
+                            em tempo real, vai poder deixar o seu cliente informado sobre toda movimentação do pedido dele, além
                             de ter todo controle financeiro dos seus pedidos recebidos diariamente.
                         </p>
                         <a class="button button-light" href="{{asset ('produtos/vasandelivery')}}">Saiba Mais</a>
@@ -162,7 +162,7 @@
                     <div class="solution__content">
                         <h2>VasanLojaVirtual</h2>
                         <p>
-                            Na plataforma de loja virtual da vasan você controla todo seu estoque, todas as suas vendas, organiza suas
+                            Na plataforma de loja virtual da Vasan você controla todo seu estoque, todas as suas vendas, organiza suas
                             entregas, lança promoçõs gerando cupons de desconto e muito mais.
                         </p>
                         <a class="button button-light" href="{{asset ('produtos/vasanlojavirtual')}}">Saiba Mais</a>
@@ -182,7 +182,7 @@
                     <div class="about__content">
                         <h2>VasanAdvogados</h2>
                         <p>
-                            A plataforma vasan para advogados é uma plataforma que veio para dar total comodidade a você advogado, e
+                            A plataforma Vasan para Advogados, é uma plataforma que veio para dar total comodidade a você Advogado e
                             aos seus clientes disponibilizando com um simples click tudo que seu cliente precisar saber sobre o seu processo.
                         </p>
                         <a class="button button-light" href="{{asset ('produtos/vasanadvogados')}}">Saiba Mais</a>

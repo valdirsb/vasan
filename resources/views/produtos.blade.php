@@ -48,8 +48,8 @@
                 <div class="about__content">
                     <h2>VasanDelivery</h2>
                     <p>
-                        O sistema de delivery da vasan é totalmene ágil e eficaz, com ele você vai gerenciar todos seus pedidos
-                        em tempo real, e vai poder deixar o seu cliente informado sobre toda movimentação do pedido dele, além
+                        O sistema de delivery da Vasan é totalmene ágil e eficaz, com ele você vai gerenciar todos os seus pedidos
+                        em tempo real, vai poder deixar o seu cliente informado sobre toda movimentação do pedido dele, além
                         de ter todo controle financeiro dos seus pedidos recebidos diariamente.
                     </p>
                     <a class="button button-light" href="{{asset ('produtos/vasandelivery')}}">Saiba Mais</a>
@@ -79,7 +79,7 @@
                 <div class="solution__content">
                     <h2>VasanLojaVirtual</h2>
                     <p>
-                        Na plataforma de loja virtual da vasan você controla todo seu estoque, todas as suas vendas, organiza suas
+                        Na plataforma de loja virtual da Vasan você controla todo seu estoque, todas as suas vendas, organiza suas
                         entregas, lança promoçõs gerando cupons de desconto e muito mais.
                     </p>
                     <a class="button button-light" href="{{asset ('produtos/vasanlojavirtual')}}">Saiba Mais</a>
@@ -99,7 +99,7 @@
                 <div class="about__content">
                     <h2>VasanAdvogados</h2>
                     <p>
-                        A plataforma vasan para advogados é uma plataforma que veio para dar total comodidade a você advogado, e
+                        A plataforma Vasan para Advogados, é uma plataforma que veio para dar total comodidade a você Advogado e
                         aos seus clientes disponibilizando com um simples click tudo que seu cliente precisar saber sobre o seu processo.
                     </p>
                     <a class="button button-light" href="{{asset ('produtos/vasanadvogados')}}">Saiba Mais</a>

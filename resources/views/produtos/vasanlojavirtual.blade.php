@@ -33,15 +33,15 @@
                     <img class="img-fluid" src="{{asset ('img/home/loja.jpg')}}" alt="">
                 </div>
                 <p class="section-intro__subtitle">
-                  Na plataforma de loja virtual da vasan você controla todo seu estoque, todas as suas vendas, organiza suas
-                  entregas, lança promoçõs gerando cupons de desconto e muito mais.
+                  Na plataforma de loja virtual da Vasan você controla todo seu estoque, todas as suas vendas, organiza suas
+                  entregas, lança promoçõs, gerando cupons de desconto e muito mais.
                 </p>
                 <br>
                 <p class="section-intro__subtitle">
-                  A vasan loja virtual foi criada pensando em você varejista e atacadisda, é uma ferramenta completa onde você
-                  vai poder controlar seu estoque, organizar suas entregas e finanças , armazenar dados pessoais de seus clientes, você poder lançar
-                  promoções, gerar cupons de desconto, e muito mais. além de integrar o site de sua loja as suas redes sociais podendo
-                  assim fazer uma unica postagens e todos os seus seguidores ficarem sabendo das novidades de sua loja.
+                  A Vasan loja virtual foi criada pensando em você varejista e atacadista, é uma ferramenta completa onde você
+                  vai poder controlar seu estoque, organizar suas entregas e finanças, armazenar dados pessoais de seus clientes, você poder lançar
+                  promoções, gerar cupons de desconto, e muito mais. Além de integrar o site de sua loja as suas redes sociais podendo
+                  assim fazer uma única postagem e todos os seus seguidores ficarão sabendo das novidades da sua loja.
                 </p>
             </div>
         </div>
@@ -55,7 +55,7 @@
     <div class="section-intro text-center">
       <h2 class="section-intro__title">Conheça nosso planos</h2>
       <p class="section-intro__subtitle">
-        A vasan disponibiliza de três modalidades de planos, conheça nossos planos e veja qual deles
+        A Vasan disponibiliza de três modalidades de planos, conheça nossos planos e veja qual deles se
         encaixa melhor na sua empresa.
       </p>
     </div>

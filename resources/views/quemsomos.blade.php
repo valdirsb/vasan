@@ -29,7 +29,7 @@
       <div class="section-intro text-center">
         <h2 class="section-intro__title">Vasan - Soluções Inovadoras</h2>
         <p class="section-intro__subtitle">
-            Desenvolvemos soluções digitais. Simplificamos a tecnologia para que você possa se dedicar às demais áreas do seu negócio. Conheça nossos serviços e descubra como podemos lhe ajudar, da ideia ao software
+            Desenvolvemos soluções digitais. Simplificamos a tecnologia para que você possa se dedicar as demais áreas do seu negócio. Conheça nossos serviços e descubra como podemos lhe ajudar, dar ideia ao software.
         </p>
       </div>
 
@@ -45,10 +45,10 @@
                     <div class="about__content">
                         <h2>Missão</h2>
                         <p>
-                            A vasan tem por missão atender a demanda do mercado facilitando o dia a dia do 
-                            micro e do pequeno empreendededor, baranteando os custos de sistemas web.
-                            visando a acessibilidade de todos nas melhores plataformas digitais ajudando a impulsionar 
-                            as suas vendas, e por sua vez gerenciar da melhor forma possivél as suas finanças.
+                            A Vasan tem por missão atender a demanda do mercado facilitando o dia a dia do 
+                            micro e do pequeno empreendededor, barateando os custos do sistemas web.
+                            Visando a acessibilidade de todos nas melhores plataformas digitais ajudando a impulsionar 
+                            as suas vendas. E por sua vez gerenciar da melhor forma possivél as suas finanças.
                         </p>
                     </div>
                 </div>

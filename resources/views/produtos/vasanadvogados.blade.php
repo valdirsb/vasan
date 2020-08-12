@@ -33,17 +33,17 @@
                     <img class="img-fluid" src="{{asset ('img/home/adv.png')}}" alt="">
                 </div>
                 <p class="section-intro__subtitle">
-                  a plataforma vasan para advogados é uma plataforma que veio para dar total comodidade a você advogado, e
+                  A plataforma Vasan para Advogados, é uma plataforma que veio para dar total comodidade a você Advogado e
                   aos seus clientes disponibilizando com um simples click tudo que seu cliente precisar saber sobre o seu processo.
                 </p>
                 <br>
                 <p class="section-intro__subtitle">
-                  na plataforma vasan para advogados você advogado lança no sistema toda movimentação processual do seu cliente,
+                  Na plataforma Vasan para Advogados você Advogado lança no sistema toda movimentação processual do seu cliente,
                   deixando ele por dentro de todas as novidades do processo em apenas um click.
-                  essa ferramenta foi feita pensando aumentar ainda mais o relacionamento advogado/cliente dando mas comodidade
-                  para o seu cliente, e assim diminuindo bastante o fluxo de ligações telefonicas a procura de novas informações.
-                  a ferramenta ainda disponibiliza um campo de lembretes onde uma vez lançado datas hora e local o próprio sistema
-                  se encarrega de enviar antecipadamente os lembretes sobre as audiências para você advogado e para o seu cliente.
+                  Essa ferramenta foi feita pensando em aumentar ainda mais o relacionamento Advogado/cliente dando mais comodidade
+                  para o seu cliente e assim diminuindo bastante o fluxo de ligações telefônicas á procura de novas informações.
+                  A ferramenta ainda disponibiliza um campo de lembretes onde uma vez lançada datas, hora e local o próprio sistema
+                  se encarrega de enviar antecipadamente os lembretes sobre as audiências para você Advogado e para o seu cliente.
                 </p>
             </div>
         </div>
@@ -58,7 +58,7 @@
     <div class="section-intro text-center">
       <h2 class="section-intro__title">Conheça nosso planos</h2>
       <p class="section-intro__subtitle">
-        A vasan disponibiliza de três modalidades de planos, conheça nossos planos e veja qual deles
+        A Vasan disponibiliza de três modalidades de planos, conheça nossos planos e veja qual deles se
         encaixa melhor na sua empresa.
       </p>
     </div>

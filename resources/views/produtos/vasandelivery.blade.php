@@ -33,15 +33,15 @@
                     <img class="img-fluid" src="{{asset ('img/produtos/delivery.jpg')}}" alt="">
                 </div>
                 <p class="section-intro__subtitle">
-                  O sistema de delivery da vasan é totalmene ágil e eficaz, com ele você vai gerenciar todos seus pedidos
-                  em tempo real, e vai poder deixar o seu cliente informado sobre toda movimentação do pedido dele, além
+                  O sistema de delivery da Vasan é totalmente ágil e eficaz, com ele você vai gerenciar todos os seus pedidos
+                  em tempo real, vai poder deixar o seu cliente informado sobre toda movimentação do pedido dele, além
                   de ter todo controle financeiro dos seus pedidos recebidos diariamente.
                 </p>
                 <br>
                 <p class="section-intro__subtitle">
                   O Vasan Delivery foi criado para facilitar o dia a dia dos pequenos e médios empreendedores
                   dando aos seus clientes a comodidade de ter todo gerenciamento financeiro dos seus pedidos, ter todo
-                  o controle e cadrasto de seus clientes em maõs, no sistema de delivery da vasan você também pode adicionar
+                  o controle e cadastro de seus clientes em mãos, no sistema de delivery da Vasan você também pode adicionar
                   categorias e produtos a hora que desejar, também vai acompanhar todos os pedidos que chegam em tempo real
                   disponibilizando para seus clientes o status do andamento do seu pedido.
                 </p>
@@ -57,7 +57,7 @@
       <div class="section-intro text-center">
         <h2 class="section-intro__title">Conheça nosso planos</h2>
         <p class="section-intro__subtitle">
-          A vasan disponibiliza de três modalidades de planos, conheça nossos planos e veja qual deles
+          A Vasan disponibiliza de três modalidades de planos, conheça nossos planos e veja qual deles se
           encaixa melhor na sua empresa.
         </p>
       </div>

@@ -39,14 +39,14 @@
             <span class="contact-info__icon"><i class="ti-home"></i></span>
             <div class="media-body">
               <h3>Paulista - Pernambuco</h3>
-              <p>Rua Job Vieira de melo</p>
+              <p>Rua Job Vieira de Lima 67 </p>
             </div>
           </div>
           <div class="media contact-info">
             <span class="contact-info__icon"><i class="ti-headphone"></i></span>
             <div class="media-body">
               <h3><a href="tel:984594763">(81) 9 8459-4763</a></h3>
-              <p>Atendimento das 7:00 as 18:00</p>
+              <p>Atendimento das 7:00 às 18:00</p>
             </div>
           </div>
           <div class="media contact-info">

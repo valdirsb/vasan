@@ -29,7 +29,7 @@
         <div class="section-intro pb-85px text-center">
             <h2 class="section-intro__title">Nossos Serviços</h2>
             <p class="section-intro__subtitle">
-                Sistemas web modernos e de total confiabilidade, na vasan você terá uma plataforma
+                Sistemas web modernos e de total confiabilidade, na Vasan você terá uma plataforma
                 segura e de total praticidade, sistemas extremamentes fáceis de se gerenciar. 
                 impulsionando suas vendas e otimizando o gerenciamento do seu negócio.
             </p>
@@ -46,8 +46,8 @@
                             </span>
                             <h4>Criação de Sites</h4>
                             <p>
-                                Crie seus site totalmente personalizados e com sua cara. consulte um de nossos
-                                atendentes, fale um pouco de sua ideia e pronto o resto deixe com a vasan.
+                                Crie seus site totalmente personalizados e com sua cara. Consulte um de nossos
+                                Atendentes, fale um pouco de sua ideia e pronto o resto deixe com a Vasan.
                             </p>
                         </div>
                     </div>
@@ -61,7 +61,7 @@
                             <p>
                                 Além dos aplicativos de nossa plataforma você também pode criar um aplicativo
                                 exclusivo para o que você precisa, basta você nos contar sua ideia que fazemos
-                                vira realidade. consulte um de nossos atendentes e o resto deixe com a vasan.
+                                virar realidade. Consulte um de nossos Atendentes e o resto deixe com a Vasan.
                             </p>
                         </div>
                     </div>
@@ -75,8 +75,8 @@
                             </span>
                             <h4>Sistemas</h4>
                             <p>
-                                Dispinibilizamos de sistemas totalmente úteis para o seu dia a dia que iram te ajudar
-                                a gerenciar melhor seu negócio facilitando e otimizando sua produtividade.
+                                Disponibilizamos de sistemas totalmente úteis para o seu dia a dia que irão te ajudar
+                                a gerenciar melhor o seu negócio facilitando e otimizando sua produtividade.
                             </p>
                         </div>
                     </div>
@@ -88,9 +88,9 @@
                             </span>
                             <h4>Identidade Visual</h4>
                             <p>
-                                você que esta começando um negócio, e está precisando de uma ajudinha para criar
-                                sua marca, deixa eu te contar um segredo a vasan tem uma equipe de designs profissionais
-                                e experientes que vão te dar todo suporte.
+                                Você que está começando um negócio, e está precisando de uma ajudinha para criar
+                                sua marca, deixa eu te contar um segredo! A Vasan tem uma equipe de Designers Profissionais
+                                 experientes que vão te dar todo suporte.
                             </p>
                         </div>
                     </div>
